@@ -24,7 +24,7 @@
 
 <h3 align="left">Linki:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/miłosz-kordziński-a85947254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/miłosz-kordziński-a85947254" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mi%C5%82osz-kordzi%C5%84ski-a85947254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/miłosz-kordziński-a85947254" height="30" width="40" /></a>
 <a href="https://instagram.com/milekgym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milekgym" height="30" width="40" /></a>
 </p>
 
