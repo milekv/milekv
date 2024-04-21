@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Cześć 👋, Jestem Miłosz</h1>
-<h3 align="center">Tester manualny oraz przyszły programista</h3>
+<h3 align="center">Quality assurance</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/71402528/106022694-225cfd80-60ec-11eb-9d3d-78cf6bf8d2ef.gif">
 
 🌟 Poszukuję nowych wyzwań zawodowych, gdzie mogę połączyć moje zamiłowanie do technologii z możliwościami rozwoju i innowacji.
