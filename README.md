@@ -30,14 +30,13 @@
 - 📫 Skontaktuj się ze mną przez [LinkedIn](https://www.linkedin.com/in/mi%C5%82osz-kordzi%C5%84ski-a85947254)
 
 ### Języki i narzędzia
-- 🧠 Znajomość:
+## 🧠 Znajomość:
 - HTML
-- CSS
 - JavaScript
 - PHP
 - Python
   
-- 🛠 Narzędzia:
+## 🛠 Narzędzia:
 - JavaScript
 - HTML5
 - Postman
