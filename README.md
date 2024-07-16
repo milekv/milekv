@@ -7,36 +7,36 @@
   <div class="container">
     <div class="header">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead">
-      <h1>Cześć 👋, Jestem Miłosz</h1>
-      <h3>Tester manualny</h3>
+      <h1>Hi there! 👋, I'm Miłosz</h1>
+      <h3>Manual Tester</h3>
     </div>
-<div class="content">
+    <div class="content">
    
-### O mnie
-🔍 Jestem entuzjastą testowania oprogramowania, specjalizującym się w manualnym testowaniu aplikacji webowych i mobilnych. Szukam możliwości rozwoju zawodowego, gdzie mogę wykorzystać moje umiejętności w dziedzinie testowania.
+### About Me
+🔍 I'm passionate about software testing, specializing in manual testing of web and mobile applications. I'm seeking professional development opportunities where I can apply my skills in the field of testing.
 
-### Umiejętności
-- 🌟 Tworzenie i wykonanie planów testowych oraz scenariuszy testowych.
-- 💡 Testowanie funkcjonalności, wydajności, bezpieczeństwa i użytkownika (UI/UX).
-- 💻 Przygotowywanie raportów z testów oraz zarządzanie defektami.
-- 📚 Ciągłe podnoszenie kwalifikacji zawodowych i osobistych w zakresie testowania oprogramowania.
+### Skills
+- 🌟 Creating and executing test plans and test scenarios.
+- 💡 Testing functionality, performance, security, and user experience (UI/UX).
+- 💻 Preparing test reports and managing defects.
+- 📚 Continuously improving professional and personal qualifications in software testing.
 
-### Zainteresowania
-- 🚀 Automatyzacja testów i wykorzystanie sztucznej inteligencji w procesie testowania.
-- 👾 Pasja do gier komputerowych, co inspiruje mnie do testowania z perspektywy użytkownika końcowego.
+### Interests
+- 🚀 Test automation and leveraging artificial intelligence in testing processes.
+- 👾 Passion for computer games, inspiring my approach to user-centric testing.
 
-### Kontakt
-- 🤝 Chętnie dzielę się wiedzą i doświadczeniem z innymi w społeczności testerskiej.
-- 📫 Skontaktuj się ze mną przez [LinkedIn](https://www.linkedin.com/in/mi%C5%82osz-kordzi%C5%84ski-a85947254)
+### Contact
+- 🤝 I enjoy sharing knowledge and experience with others in the testing community.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mi%C5%82osz-kordzi%C5%84ski-a85947254).
 
-### Języki i narzędzia
-## 🧠 Znajomość:
+### Languages and Tools
+## 🧠 Proficient in:
 - HTML
 - JavaScript
 - PHP
 - Python
   
-## 🛠 Narzędzia:
+## 🛠 Tools:
 - JavaScript
 - HTML5
 - Postman
@@ -46,8 +46,8 @@
   
     </div>
 
-  <div class="skills">
-      <h3>Języki i narzędzia</h3>
+    <div class="skills">
+      <h3>Languages and Tools</h3>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40">
@@ -57,8 +57,8 @@
       </p>
     </div>
 
-  <div class="links">
-      <h3>Linki</h3>
+    <div class="links">
+      <h3>Links</h3>
       <p>
         <a href="https://www.linkedin.com/in/mi%C5%82osz-kordzi%C5%84ski-a85947254" target="_blank">LinkedIn</a>
         <a href="https://instagram.com/milekgym" target="_blank">Instagram</a>
