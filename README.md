@@ -72,13 +72,13 @@
       <h3>Tester manualny</h3>
     </div>
 
-    <div class="content">
+  <div class="content">
       <p>Poszukuję nowych wyzwań zawodowych, gdzie mogę wykorzystać moje umiejętności w manualnym testowaniu oprogramowania. Jestem entuzjastą najnowszych technologii i zawsze staram się rozwijać w tej dziedzinie.</p>
       <p>Moje doświadczenie obejmuje testowanie funkcjonalne, wydajnościowe, bezpieczeństwa oraz testy UI/UX. Jestem zaangażowany w tworzenie raportów z testów i zarządzanie defektami.</p>
       <p>Szybko przyswajam nowe umiejętności i jestem otwarty na nowe możliwości. Chętnie dzielę się wiedzą i doświadczeniem z innymi, wspierając rozwój społeczności testerskiej.</p>
     </div>
 
-    <div class="skills">
+  <div class="skills">
       <h3>Języki i narzędzia</h3>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
@@ -89,7 +89,7 @@
       </p>
     </div>
 
-    <div class="links">
+  <div class="links">
       <h3>Linki</h3>
       <p>
         <a href="https://www.linkedin.com/in/mi%C5%82osz-kordzi%C5%84ski-a85947254" target="_blank">LinkedIn</a>
