@@ -1,68 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      padding: 20px;
-      background-color: #f4f4f4;
-    }
-    .container {
-      max-width: 800px;
-      margin: auto;
-      background: #fff;
-      padding: 20px;
-      border-radius: 5px;
-      box-shadow:  0px 0px 2px rgba(0,0,0,0.2);
-    }
-    .header {
-      background-color: #333;
-      color: #fff;
-      text-align: center;
-      border-radius: 5px 5px 0 0;
-      padding: 10px;
-    }
-    .header h1 {
-      font-size: 2.5em;
-      margin-bottom: 0;
-    }
-    .header h3 {
-      font-size: 1.5em;
-      margin-top: 5px;
-    }
-    .profile-img {
-      float: right;
-      margin-left: 20px;
-      margin-bottom: 20px;
-      border-radius: 5px;
-      box-shadow: 0px 0px 2px rgba(0,0,0,0.2);
-    }
-    .content {
-      padding: 20px 0;
-    }
-    .skills {
-      margin-top: 20px;
-    }
-    .skills img {
-      margin-right: 10px;
-      margin-bottom: 10px;
-      border-radius: 5px;
-      box-shadow: 0px 0px 2px rgba(0,0,0,0.2);
-    }
-    .links {
-      margin-top: 20px;
-    }
-    .links a {
-      margin-right: 10px;
-      text-decoration: none;
-      color: #333;
-    }
-    .links a:hover {
-      color: #007bff;
-    }
-  </style>
+  
 </head>
 <body>
   <div class="container">
@@ -71,11 +10,41 @@
       <h1>Cześć 👋, Jestem Miłosz</h1>
       <h3>Tester manualny</h3>
     </div>
+<div class="content">
+   
+### O mnie
+🔍 Jestem entuzjastą testowania oprogramowania, specjalizującym się w manualnym testowaniu aplikacji webowych i mobilnych. Szukam możliwości rozwoju zawodowego, gdzie mogę wykorzystać moje umiejętności w dziedzinie testowania.
 
-  <div class="content">
-      <p>Poszukuję nowych wyzwań zawodowych, gdzie mogę wykorzystać moje umiejętności w manualnym testowaniu oprogramowania. Jestem entuzjastą najnowszych technologii i zawsze staram się rozwijać w tej dziedzinie.</p>
-      <p>Moje doświadczenie obejmuje testowanie funkcjonalne, wydajnościowe, bezpieczeństwa oraz testy UI/UX. Jestem zaangażowany w tworzenie raportów z testów i zarządzanie defektami.</p>
-      <p>Szybko przyswajam nowe umiejętności i jestem otwarty na nowe możliwości. Chętnie dzielę się wiedzą i doświadczeniem z innymi, wspierając rozwój społeczności testerskiej.</p>
+### Umiejętności
+- 🌟 Tworzenie i wykonanie planów testowych oraz scenariuszy testowych.
+- 💡 Testowanie funkcjonalności, wydajności, bezpieczeństwa i użytkownika (UI/UX).
+- 💻 Przygotowywanie raportów z testów oraz zarządzanie defektami.
+- 📚 Ciągłe podnoszenie kwalifikacji zawodowych i osobistych w zakresie testowania oprogramowania.
+
+### Zainteresowania
+- 🚀 Automatyzacja testów i wykorzystanie sztucznej inteligencji w procesie testowania.
+- 👾 Pasja do gier komputerowych, co inspiruje mnie do testowania z perspektywy użytkownika końcowego.
+
+### Kontakt
+- 🤝 Chętnie dzielę się wiedzą i doświadczeniem z innymi w społeczności testerskiej.
+- 📫 Skontaktuj się ze mną przez [LinkedIn](https://www.linkedin.com/in/mi%C5%82osz-kordzi%C5%84ski-a85947254)
+
+### Języki i narzędzia
+- 🧠 Znajomość:
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Python
+  
+- 🛠 Narzędzia:
+- JavaScript
+- HTML5
+- Postman
+- Selenium WebDriver
+- MySQL
+- JIRA
+  
     </div>
 
   <div class="skills">
