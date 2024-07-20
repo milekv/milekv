@@ -6,7 +6,7 @@
 <body>
   <div class="container">
     <div class="header">
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead">
+      <img src="https://camo.githubusercontent.com/efa14bf9ed44028c9939f1d20fee4f048ef16d58ea882ebbc86b2a74cdab6168/68747470733a2f2f616c676f776f726b7375706c6f61642e73332e616d617a6f6e6177732e636f6d2f6e65772d616c676f776f726b732f77702d636f6e74656e742f75706c6f6164732f323031362f30352f31363130353130392f536f6674776172652d546573742d4d616e6167656d656e742e676966" alt="MasterHead">
       <h1>Hi there! 👋, I'm Miłosz</h1>
       <h3>Manual Tester</h3>
     </div>
