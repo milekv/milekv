@@ -45,7 +45,6 @@ Jestem pasjonatem **Zarządzania bazami danych** i **Web Developera** z doświad
 - **Node.js**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30">
 - **Express.js**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="30" height="30">
 - **Flask**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="30" height="30">
-- **Django**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="30" height="30">
 
 ### 🧰 **Narzędzia i Technologie:**
 
