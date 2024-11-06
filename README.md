@@ -33,10 +33,12 @@ I'm a passionate **DBA** and **Web Developer** with expertise in **databases**, 
 
 ### 🧠 Proficient in:
 
-- **JavaScript**: ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg =30x30)
-- **HTML**: ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg =30x30)
-- **CSS**: ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg =30x30)
-- **SQL (MySQL, PostgreSQL)**: ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg =30x30)
+
+- **JavaScript**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30">
+- **HTML**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30">
+- **CSS**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30">
+- **SQL (MySQL, PostgreSQL)**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30">
+
 
 ### 🛠 Tools:
 - **Visual Studio Code**: ![VS Code](https://img.shields.io/badge/-VS%20Code-0078d4?style=flat&logo=visualstudiocode)
