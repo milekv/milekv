@@ -59,16 +59,16 @@
 ### 🚀 Zobacz moje ostatnie projekty:
 
 - **[Projekt 1: System Rezerwacji](https://github.com/milekv/system_rezerwacji)**  
-  Aplikacja webowa do zarządzania magazynem, stworzona z wykorzystaniem **Pythona** i **Flask** z bazą danych do przechowywania danych.
+  Aplikacja webowa do zarządzania magazynem, stworzona z wykorzystaniem **Pythona** i **Flask** do przechowywania danych.
 
 - **[Projekt 2: System Firmy Szkoleniowej](https://github.com/milekv/firma-szkoleniowa)**  
   Panel analityczny zaprojektowany do efektywnego zarządzania kursami i instruktorami.
 
 - **[Projekt 3: Rozwój API dla E-commerce](https://github.com/milekv/ecommerce-api)**  
-  Stworzyłem RESTful API dla platformy **e-commerce** używając **Node.js** i **Express**.
+   RESTful API dla platformy **e-commerce** używając **Node.js** i **Express**.
 
 - **[Projekt 4: Strona Portfolio](https://github.com/milekv/milekv.github.io)**  
-  Moja osobista strona portfolio, prezentująca moje umiejętności, projekty i dane kontaktowe.
+  Moja osobista strona portfolio, prezentująca moje umiejętności oraz projekty.
 
 ---
 
