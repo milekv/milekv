@@ -5,7 +5,7 @@
 ---
 
 ## O mnie
-🔍 Jestem pasjonatem **Zarządzania bazami danych** z doświadczeniem w **web developmencie**, **bazach danych** i technologii **JavaScript**. Cieszę się, mogąc tworzyć efektywne i skalowalne rozwiązania, które rozwiązują rzeczywiste problemy. Stale doskonalę swoje umiejętności i zgłębiam nowe technologie.
+🔍 Jestem pasjonatem ** baza danych** z doświadczeniem w **web developmencie**, **bazach danych** i technologii **JavaScript**. Cieszę się, mogąc tworzyć efektywne i skalowalne rozwiązania, które rozwiązują rzeczywiste problemy. Stale doskonalę swoje umiejętności i zgłębiam nowe technologie.
 
 ## Umiejętności
 - 💻 **Znajomość**: JavaScript, HTML, CSS i bazach danych SQL.
