@@ -1,4 +1,4 @@
-# Cześć! 👋, jestem Miłosz
+# Cześć, jestem Miłosz
 
 ![MasterHead](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
@@ -18,7 +18,6 @@
 - 🧠 Stale poszerzam swoją wiedzę na temat **najlepszych praktyk w tworzeniu oprogramowania** i **wzorców projektowych**.
 - 🎮 Pasjonuję się tworzeniem **interaktywnych** i **angażujących doświadczeń użytkowników**.
 - 🏋️‍♂️ Uwielbiam **ćwiczyć na siłowni**, która pomaga mi utrzymać równowagę między pracą a zdrowiem.
-
 
 ---
 
