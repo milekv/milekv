@@ -3,10 +3,10 @@
 ---
 
 ## O mnie
-🔍 Jestem pasjonatem **baz danych** z doświadczeniem w **web developmencie**, i technologii **JavaScript**. Cieszę się, mogąc tworzyć efektywne i skalowalne rozwiązania, które rozwiązują rzeczywiste problemy. Stale doskonalę swoje umiejętności i zgłębiam nowe technologie.
+🔍 Jestem pasjonatem **baz danych** z doświadczeniem w **web developmencie**, i technologii **Python**. Cieszę się, mogąc tworzyć efektywne i skalowalne rozwiązania, które rozwiązują rzeczywiste problemy. Stale doskonalę swoje umiejętności i zgłębiam nowe technologie.
 
 ## Umiejętności
-- 💻 **Znajomość**: JavaScript, HTML, CSS i bazach danych SQL.
+- 💻 **Znajomość**: Python, JavaScript, HTML, CSS i bazach danych SQL.
 - 🌟 Doświadczony w **tworzeniu aplikacji webowych** z wykorzystaniem nowoczesnych frameworków i bibliotek.
 - 🚀 **Umiejętność rozwiązywania problemów** oraz szybka zdolność przyswajania nowych technologii.
 - 📚 **Zaangażowany** w pisanie czystego, łatwego do utrzymania i dobrze udokumentowanego kodu.
@@ -31,6 +31,7 @@
 ### 🧠 **Znajomość:**
 
 - **JavaScript**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30">
+- **PYTHON**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/python-original-wordmark.svg" alt="Python" width="30" height="30">
 - **HTML5**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30">
 - **CSS3**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30">
 - **SQL (MySQL, PostgreSQL)**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="30" height="30">
