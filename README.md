@@ -7,15 +7,14 @@
 
 ## Umiejętności
 - 💻 **Znajomość**: Python, JavaScript, HTML, CSS i bazach danych SQL.
-- 🌟 Doświadczony w **tworzeniu aplikacji webowych** z wykorzystaniem nowoczesnych frameworków i bibliotek.
+- 🌟 Doświadczenie w projektowaniu i optymalizacji baz danych oraz **tworzeniu zapytań SQL** oraz **tworzeniu aplikacji webowych** z wykorzystaniem nowoczesnych frameworków i bibliotek.
 - 🚀 **Umiejętność rozwiązywania problemów** oraz szybka zdolność przyswajania nowych technologii.
 - 📚 **Zaangażowany** w pisanie czystego, łatwego do utrzymania i dobrze udokumentowanego kodu.
 
 ## Zainteresowania
-- 🌐 Eksplorowanie najświeższych trendów w **IT**.
-- 🧠 Stale poszerzam swoją wiedzę na temat **najlepszych praktyk w tworzeniu oprogramowania** i **wzorców projektowych**.
-- 🎮 Pasjonuję się tworzeniem **interaktywnych** i **angażujących doświadczeń użytkowników**.
-- 🏋️‍♂️ Uwielbiam **ćwiczyć na siłowni**, która pomaga mi utrzymać równowagę między pracą a zdrowiem.
+- 🧠 Pasjonują mnie techniki przetwarzania danych, analizy danych oraz najlepsze praktyki w zakresie architektury danych.
+- 🎮 Interesuję się projektowaniem intuicyjnych aplikacji i wykorzystywaniem technologii do optymalizacji doświadczeń użytkowników.
+- 🏋️‍♂️ Aktywnie spędzam czas na siłowni, aby utrzymać zdrowy balans między życiem zawodowym a prywatnym.
 
 ---
 
