@@ -55,8 +55,8 @@
 
 ### 🚀 Zobacz moje ostatnie projekty:
 
-- **[Projekt 1: System Rezerwacji](https://github.com/milekv/system_rezerwacji)**  
-  Aplikacja webowa do zarządzania magazynem, stworzona z wykorzystaniem **Pythona** i **Flask** do przechowywania danych.
+- **[Projekt 1: CommerceFlow](https://github.com/milekv/CommerceFlow)**  
+  Platforma e-commerce umożliwiająca zarządzanie użytkownikami, produktami, płatnościami i analizą aktywności użytkowników..
 
 - **[Projekt 2: System Firmy Szkoleniowej](https://github.com/milekv/firma-szkoleniowa)**  
   Panel analityczny zaprojektowany do efektywnego zarządzania kursami i instruktorami.
