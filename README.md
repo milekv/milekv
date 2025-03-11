@@ -9,11 +9,9 @@
 - 🎓 Ukończone **Technikum Informatyczne** – solidne podstawy programowania i administracji systemami
 - 📜 Kursy z zakresu **baz danych, programowania i testowania oprogramowania**
 - 🏆 Certyfikaty i szkolenia:
-  - Amazon Web Services (AWS)
-  - Data Science Council of America (DASCA)
-  - Cloudera Certified Associate (CCA)
-  - IBM Certified Data Engineer
   - Microsoft Azure Fundamentals
+  - Kursy z zakresu baz danych i analizy danych (SQL, Python, Power BI)
+  - Podstawy AWS i przetwarzania danych w chmurze
 
 ## 🔧 Umiejętności
 - **Bazy danych**: Oracle, MySQL, PostgreSQL
@@ -44,3 +42,4 @@
 ---
 
 🚀 **Nie wahaj się skontaktować i zbudujmy coś niesamowitego razem!**
+
