@@ -9,7 +9,7 @@
 - 🎓 Ukończone **Technikum Informatyczne** – solidne podstawy programowania i administracji systemami
 - 📜 Kursy z zakresu **baz danych, programowania i testowania oprogramowania**
 - 🏆 Certyfikaty i szkolenia:
-  - Microsoft Azure Fundamentals
+  - **Microsoft Azure Fundamentals**
   - Kursy z zakresu baz danych i analizy danych (SQL, Python, Power BI)
   - Podstawy AWS i przetwarzania danych w chmurze
 
@@ -21,14 +21,17 @@
 - **Narzędzia**: DBeaver, SQL Developer, Docker, Git
 
 ## 🚀 Projekty
-### [E-commerce Database System](https://github.com/milekv/ecommerce-db)
-🔹 System bazodanowy obsługujący transakcje, produkty i użytkowników w platformie e-commerce.
+### [CommerceFlow](https://github.com/milekv/CommerceFlow)
+🛒 Platforma e-commerce umożliwiająca zarządzanie użytkownikami, produktami, płatnościami i analizą aktywności użytkowników.
 
-### [Analiza danych sprzedażowych](https://github.com/milekv/data-analysis-sales)
-📊 Wizualizacja danych sprzedażowych z wykorzystaniem Power BI i SQL.
+### [System Firmy Szkoleniowej](https://github.com/milekv/firma-szkoleniowa)
+📚 Panel analityczny zaprojektowany do efektywnego zarządzania kursami i instruktorami.
 
-### [Automatyzacja raportowania](https://github.com/milekv/python-reporting)
-📈 Skrypt w Pythonie do automatycznego generowania raportów na podstawie danych z SQL.
+### [Rozwój API dla E-commerce](https://github.com/milekv/ecommerce-api)
+🔗 RESTful API dla platformy **e-commerce** używając **Node.js** i **Express**.
+
+### [Strona Portfolio](https://github.com/milekv/milekv.github.io)
+🌍 Moja osobista strona portfolio, prezentująca moje umiejętności oraz projekty.
 
 ## 📊 Statystyki GitHub
 ![Miłosz GitHub Stats](https://github-readme-stats.vercel.app/api?username=milekv&show_icons=true&hide_title=true&count_private=true&theme=radical)
@@ -42,4 +45,3 @@
 ---
 
 🚀 **Nie wahaj się skontaktować i zbudujmy coś niesamowitego razem!**
-
