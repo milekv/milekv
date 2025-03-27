@@ -10,7 +10,7 @@
 - 📜 Kursy z zakresu **baz danych, programowania i testowania oprogramowania**
 - 🏆 Certyfikaty i szkolenia:
   - Microsoft Azure oraz AWS w trakcie (przetwarzanie danych w chmurze)
-  - Kursy z zakresu baz danych i analizy danych (SQL, Python, Power BI)
+  - Kursy z zakresu baz danych i analizy danych oraz testowania manualnego (SQL, Python, Java etc.)
 
 ## 🔧 Umiejętności
 - **Bazy danych**: Oracle, MySQL, PostgreSQL
