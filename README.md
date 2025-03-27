@@ -11,7 +11,7 @@
 - 🏆 Certyfikaty i szkolenia:
   - Microsoft Azure oraz AWS w trakcie (przetwarzanie danych w chmurze)
   - Kursy z zakresu baz danych i analizy danych (SQL, Python, Power BI)
-  - 
+
 ## 🔧 Umiejętności
 - **Bazy danych**: Oracle, MySQL, PostgreSQL
 - **Analiza danych**: Python, Power BI, Excel
