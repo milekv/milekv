@@ -59,9 +59,10 @@ Moja strona prezentująca projekty i kompetencje.
 
 ## 📊 GitHub
 
-![Miłosz GitHub Stats](https://github-readme-stats.vercel.app/api?username=milekv&show_icons=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milekv&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=milekv&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milekv&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milekv&layout=compact&theme=radical&hide_border=true)
+
 
 ---
 
