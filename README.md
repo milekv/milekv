@@ -57,14 +57,6 @@ Moja strona prezentująca projekty i kompetencje.
 
 ---
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milekv&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milekv&layout=compact&theme=radical&hide_border=true)
-
-
----
 
 ## 🌱 Aktualny kierunek rozwoju
 
