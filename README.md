@@ -1,74 +1,83 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
-# Cześć, jestem Miłosz 👋
-💻 Pasjonat **baz danych** i **inżynierii danych**, z doświadczeniem jako **Database Administrator**.  
-Aktualnie rozwijam kompetencje w:
-
-- 🌐 **Chmurze i nowoczesnym przetwarzaniu danych** (Azure, AWS)  
-- 📊 **Analizie danych** (SQL, Python, Power BI)  
-- 🧩 **Zarządzaniu projektami** (Agile, Scrum Master)  
+# Cześć, jestem Miłosz 👋  
+**Data & Database Engineer**
 
 ---
 
-## 📚 Edukacja & Certyfikaty
-🎓 **Technikum Informatyczne** – solidne podstawy programowania i administracji systemami  
+## 👨‍💻 O mnie
 
-📜 Kursy i szkolenia z zakresu:  
-- **SQL, Python, Power BI, Java, Testowanie oprogramowania**  
+Jestem specjalistą w obszarze **baz danych, analizy danych i backendu**, z ponad rocznym doświadczeniem w pracy z systemami danych jako **Database Administrator**.  
 
-🏆 Certyfikaty w trakcie realizacji:  
-- Microsoft Azure & AWS (przetwarzanie danych w chmurze)  
-- Scrum Master / Agile Project Management  
+Moim głównym kierunkiem rozwoju jest:
+- **inżynieria danych i systemy bazodanowe**
+- **analityka i Business Intelligence**
+- **koordynowanie projektów i pracy zespołów IT (Agile)**  
+
+Interesuje mnie łączenie **technologii danych** z **efektywną organizacją pracy zespołów** i prowadzeniem projektów w środowisku Agile.
 
 ---
 
-## 🔧 Umiejętności
-| Kategorie | Technologie / Narzędzia |
-|-----------|------------------------|
-| **Bazy danych** | Oracle, MySQL, PostgreSQL |
-| **Analiza danych** | Python, Power BI, Excel |
-| **Backend** | Python (Flask), Node.js (Express.js) |
-| **Chmura** | Azure, AWS (w trakcie) |
-| **Narzędzia** | DBeaver, SQL Developer, Docker, Git |
+## 🧠 Kompetencje
+
+| Obszar | Zakres |
+|------|------|
+| **Bazy danych & dane** | Oracle, MySQL, PostgreSQL, SQL, modelowanie danych, optymalizacja zapytań |
+| **Analiza & BI** | Python (pandas, numpy), Power BI, Excel, raportowanie, wizualizacja danych |
+| **Backend & integracje** | Python (Flask), Node.js (Express), REST API |
+| **Chmura & infrastruktura** | Microsoft Azure (SQL, Data Factory), AWS (S3, RDS), Docker |
+| **Testowanie & jakość** | testowanie manualne, walidacja danych, SQL do kontroli jakości |
+| **Praca zespołowa & projekty** | Agile, Scrum, koordynacja zadań, planowanie pracy zespołu |
 
 ---
 
 ## 🚀 Projekty
-### [CommerceFlow](https://github.com/milekv/CommerceFlow)  
-🛒 Platforma e-commerce do zarządzania użytkownikami, produktami, płatnościami i analizą danych użytkowników.  
-**Tech Stack:** `Node.js` `Express.js` `SQL` `JavaScript`
 
-### [System Firmy Szkoleniowej](https://github.com/milekv/firma-szkoleniowa)  
-📚 Panel analityczny do zarządzania kursami i instruktorami.  
-**Tech Stack:** `Python` `Flask` `SQL` `Excel`
-
-### [Rozwój API dla E-commerce](https://github.com/milekv/ecommerce-api)  
-🔗 RESTful API dla platformy e-commerce.  
-**Tech Stack:** `Node.js` `Express.js` `SQL`
-
-### [Portfolio](https://github.com/milekv/milekv.github.io)  
-🌍 Moje portfolio online prezentujące projekty i umiejętności.  
-**Tech Stack:** `HTML` `CSS` `JavaScript`
+### 🛒 [CommerceFlow](https://github.com/milekv/CommerceFlow)
+Platforma e-commerce z obsługą użytkowników, produktów, płatności i analityki zachowań.  
+**Stack:** Node.js, Express, SQL, JavaScript  
 
 ---
 
-## 📊 GitHub Stats
-![Miłosz GitHub Stats](https://github-readme-stats.vercel.app/api?username=milekv&show_icons=true&hide_title=true&count_private=true&theme=radical)
+### 📊 [System Firmy Szkoleniowej](https://github.com/milekv/firma-szkoleniowa)
+System do zarządzania kursami i instruktorami z panelem analitycznym.  
+**Stack:** Python, Flask, SQL, Excel  
+
+---
+
+### 🔗 [E-commerce API](https://github.com/milekv/ecommerce-api)
+REST API do obsługi platformy e-commerce.  
+**Stack:** Node.js, Express, SQL  
+
+---
+
+### 🌍 [Portfolio](https://github.com/milekv/milekv.github.io)
+Moja strona prezentująca projekty i kompetencje.  
+**Stack:** HTML, CSS, JavaScript  
+
+---
+
+## 📊 GitHub
+
+![Miłosz GitHub Stats](https://github-readme-stats.vercel.app/api?username=milekv&show_icons=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milekv&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=milekv&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=milekv&theme=radical)
 
 ---
 
-## 📬 Kontakt
-- 🔗 **LinkedIn:** [Kliknij tutaj](https://www.linkedin.com/in/mi%C5%82osz-kordzi%C5%84ski-a85947254)  
-- 📩 **E-mail:** miloszk.kontakt@gmail.com  
+## 🌱 Aktualny kierunek rozwoju
+
+- Inżynieria danych w środowisku chmurowym (Azure, AWS)  
+- Analiza danych i elementy uczenia maszynowego  
+- Rozwój w kierunku **koordynowania projektów i zespołów IT**
 
 ---
 
-## 🏆 Dodatkowe kompetencje
-- Agile & Scrum Master – prowadzenie projektów, standupy, planowanie sprintów  
-- Rozwój zawodowy w obszarze **Database Engineering** i **Data Analytics**  
+## 📫 Kontakt
+
+📩 **Email:** miloszk.kontakt@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/mi%C5%82osz-kordzi%C5%84ski-a85947254  
 
 ---
 
-💡 **Zawsze chętny na nowe projekty i wyzwania – zbudujmy coś niesamowitego razem!**
+💡 *Zainteresowany współpracą przy projektach związanych z danymi, backendem i rozwojem zespołów.*
