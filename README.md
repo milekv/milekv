@@ -12,7 +12,7 @@ Jestem specjalistą w obszarze **baz danych, analizy danych i backendu**, z pona
 Moim głównym kierunkiem rozwoju jest:
 - **inżynieria danych i systemy bazodanowe**
 - **analityka i Business Intelligence**
-- **koordynowanie projektów i pracy zespołów IT (Agile)**  
+- **koordynowanie projektów i pracy zespołów IT (Agile/Scrum)**  
 
 Interesuje mnie łączenie **technologii danych** z **efektywną organizacją pracy zespołów** i prowadzeniem projektów w środowisku Agile.
 
