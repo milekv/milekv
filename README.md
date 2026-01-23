@@ -39,7 +39,6 @@ Interesuje mnie łączenie **technologii danych** z **praktycznym wykorzystaniem
 Równolegle do pracy z danymi współtworzę inicjatywę realizującą **projekty stron internetowych oraz aplikacji webowych** — od etapu koncepcji, przez implementację, po wdrożenie produkcyjne.
 
 Zakres realizowanych projektów obejmuje m.in.:
-
 * strony wizytówkowe i landing pages
 * strony firmowe i produktowe
 * systemy zarządzania treścią (CMS)
@@ -47,30 +46,14 @@ Zakres realizowanych projektów obejmuje m.in.:
 
 ### 🛠️ Wykorzystywane technologie
 
-* **Frontend:**
-  HTML5, CSS3, JavaScript, Responsive Web Design
-
-* **Frameworki & UI:**
-  React, Tailwind CSS, Bootstrap
-
-* **Backend & integracje:**
-  Node.js, REST API, integracje z zewnętrznymi usługami
-
-* **Bazy danych & zarządzanie treścią:**
-  PostgreSQL (backend-as-a-service),
-  Supabase,
-  Airtable (CMS / baza danych z API)
-
-* **Narzędzia developerskie:**
-  Git, GitHub, Docker
-
-* **Deployment, hosting & domeny:**
-  konfiguracja hostingu stron i aplikacji,
-  podpinanie domen, DNS, SSL,
-  wdrożenia w środowiskach chmurowych,
-  optymalizacja wydajności i SEO techniczne
-
----
+| Obszar                   | Zakres                                                       |
+| ------------------------ | ------------------------------------------------------------ |
+| **Typy projektów**       | strony firmowe, landing pages, aplikacje webowe, systemy CMS |
+| **Frontend**             | HTML5, CSS3, JavaScript, Responsive Web Design               |
+| **Frameworki & UI**      | React, Tailwind CSS, Bootstrap                               |
+| **Backend & integracje** | Node.js, REST API, integracje z zewnętrznymi usługami        |
+| **Bazy danych & CMS**    | PostgreSQL (backend-as-a-service), Supabase, Airtable        |
+| **Deployment & hosting** | konfiguracja hostingu, domeny, DNS, SSL, środowiska chmurowe |
 
 ## 🚀 Wybrane projekty
 
