@@ -45,8 +45,6 @@ Zakres realizowanych projektów obejmuje m.in.:
 * systemy zarządzania treścią (CMS)
 * aplikacje frontendowe z integracją backendu i baz danych
 
-Każdy projekt publikowany jest jako **oddzielne repozytorium na GitHubie**, prezentujące pełny proces wytwórczy oraz strukturę aplikacji.
-
 ### 🛠️ Wykorzystywane technologie
 
 * **Frontend:**
