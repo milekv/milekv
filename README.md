@@ -34,7 +34,7 @@ Interesuje mnie łączenie **technologii danych** z **praktycznym wykorzystaniem
 
 ---
 
-## 🌐 Projekty Web Development
+## 🌐 Systemy i aplikacje webowe
 
 Równolegle do pracy z danymi współtworzę inicjatywę realizującą **projekty stron internetowych oraz aplikacji webowych** — od etapu koncepcji, przez implementację, po wdrożenie produkcyjne.
 
