@@ -36,7 +36,7 @@ Interesuje mnie łączenie **technologii danych** z **praktycznym wykorzystaniem
 
 ## 🌐 Systemy i aplikacje webowe
 
-Równolegle do pracy z danymi współtworzę firmę realizującą **projekty stron internetowych oraz aplikacji webowych** — od etapu koncepcji, przez implementację, po wdrożenie produkcyjne.
+Równolegle do pracy z danymi współtworzę firmę realizującą **projekty stron internetowych oraz aplikacji webowych** - od etapu koncepcji, przez implementację, po wdrożenie produkcyjne.
 
 Zakres realizowanych projektów obejmuje m.in.:
 * strony wizytówkowe i landing pages
