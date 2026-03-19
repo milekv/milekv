@@ -99,6 +99,3 @@ Strona prezentująca projekty i kompetencje.
 📩 **Email:** [miloszk.kontakt@gmail.com](mailto:miloszk.kontakt@gmail.com)
 🔗 **LinkedIn:** [https://www.linkedin.com/in/mi%C5%82osz-kordzi%C5%84ski-a85947254](https://www.linkedin.com/in/mi%C5%82osz-kordzi%C5%84ski-a85947254)
 
----
-
-💡 *Zainteresowany współpracą przy projektach związanych z danymi, backendem oraz realizacją rozwiązań cyfrowych od strony technicznej i biznesowej.*
