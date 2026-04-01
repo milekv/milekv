@@ -1,74 +1,118 @@
-Hi, I'm Miłosz 👋
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-Data & Database Engineer
+<h1 align="center">Hi, I'm Miłosz 👋</h1>
+<h3 align="center">Data & Database Engineer</h3>
 
-👨‍💻 About me
+---
 
-I specialize in databases, data systems, and backend development, with over a year of experience working as a Database Administrator.
+## 👨‍💻 About me
 
-Currently, I’m focused on developing skills in:
+I work with **databases, data systems, and backend development**, with over a year of experience as a **Database Administrator**.
 
-data engineering and database systems
-data analytics and Business Intelligence
-backend development and system integration
-project coordination and team collaboration (Agile / Scrum)
+Currently, I focus on:
 
-I’m particularly interested in combining data technologies with practical business applications, as well as improving how teams plan and deliver technical projects.
+- data engineering and database systems  
+- data analytics and Business Intelligence  
+- backend development and system integration  
+- project coordination and team collaboration (Agile / Scrum)  
 
-🧠 Skills
-Area	Stack
-Databases & Data	Oracle, MySQL, PostgreSQL, SQL, data modeling, query optimization
-Data & BI	Python (pandas, numpy), Power BI, Excel, reporting, data visualization
-Backend & Integration	Python (Flask), Node.js (Express), REST APIs
-Cloud & Infrastructure	Azure (SQL, Data Factory), AWS (S3, RDS), Docker
-Testing & Quality	manual testing, data validation, SQL-based quality checks
-Collaboration & Projects	Agile, Scrum, task coordination, team planning
-🌐 Web Systems & Applications
+I enjoy solving problems, improving system performance, and building practical, business-focused data solutions.
 
-Alongside my data work, I co-develop web projects — from concept to production deployment.
+---
 
-Projects include:
+## 🧠 Skills
 
-business websites and landing pages
-company and product websites
-CMS-based systems
-web applications with backend and database integration
-🛠️ Tech Stack
-Area	Stack
-Project Types	websites, landing pages, web apps, CMS
-Frontend	HTML5, CSS3, JavaScript, Responsive Design
-Frameworks & UI	React, Tailwind CSS, Bootstrap
-Backend & Integration	Node.js, REST APIs, third-party integrations
-Databases & CMS	PostgreSQL, Supabase, Airtable
-Deployment	hosting setup, domains, DNS, SSL, cloud environments
-🚀 Selected Projects
-🛒 CommerceFlow
+### 🗄️ Databases & Data
+- Oracle, MySQL, PostgreSQL  
+- SQL, data modeling, query optimization  
 
-E-commerce platform with user management, products, payments, and analytics
-Stack: Node.js, Express, SQL, JavaScript
+### 📊 Data & BI
+- Python (pandas, numpy)  
+- Power BI, Excel  
+- reporting & data visualization  
 
-📊 Training Company System
+### ⚙️ Backend & Integration
+- Python (Flask)  
+- Node.js (Express)  
+- REST APIs  
 
-System for managing courses and instructors with analytics dashboard
-Stack: Python, Flask, SQL, Excel
+### ☁️ Cloud & Infrastructure
+- Azure (SQL, Data Factory)  
+- AWS (S3, RDS)  
+- Docker  
 
-🔗 E-commerce API
+### 🧪 Testing & Quality
+- manual testing  
+- data validation  
+- SQL-based quality checks  
 
-REST API for e-commerce platform
-Stack: Node.js, Express, SQL
+### 🤝 Collaboration
+- Agile, Scrum  
+- task coordination  
+- team planning  
 
-🌍 Portfolio
+---
 
-Personal portfolio website
-Stack: HTML, CSS, JavaScript
+## 🌐 Web Projects
 
-🌱 Currently Learning
-Data engineering in cloud environments (Azure, AWS)
-Data analysis and basics of machine learning
-Designing scalable data and backend systems
-Moving towards project coordination and tech leadership
-📫 Contact
+I also work on web projects — from idea to deployment.
 
-📩 Email: miloszk.kontakt@gmail.com
+**Scope:**
+- business websites & landing pages  
+- CMS systems  
+- web apps with backend & database integration  
 
-🔗 LinkedIn: https://www.linkedin.com/in/mi%C5%82osz-kordzi%C5%84ski-a85947254
+**Tech stack:**
+- Frontend: HTML, CSS, JavaScript  
+- Frameworks: React, Tailwind, Bootstrap  
+- Backend: Node.js, REST APIs  
+- Databases: PostgreSQL, Supabase, Airtable  
+- Deployment: hosting, DNS, SSL, cloud  
+
+---
+
+## 🚀 Projects
+
+### 🛒 CommerceFlow  
+https://github.com/milekv/CommerceFlow  
+E-commerce platform with users, products, payments, and analytics  
+**Stack:** Node.js, Express, SQL  
+
+---
+
+### 📊 Training Company System  
+https://github.com/milekv/firma-szkoleniowa  
+System for managing courses and instructors with analytics  
+**Stack:** Python, Flask, SQL  
+
+---
+
+### 🔗 E-commerce API  
+https://github.com/milekv/ecommerce-api  
+REST API for e-commerce platform  
+**Stack:** Node.js, Express, SQL  
+
+---
+
+### 🌍 Portfolio  
+https://github.com/milekv/milekv.github.io  
+Personal portfolio website  
+**Stack:** HTML, CSS, JavaScript  
+
+---
+
+## 🌱 Currently Learning
+
+- Data engineering in cloud (Azure, AWS)  
+- Data analysis & basics of ML  
+- Designing data systems & backend  
+- Moving towards project coordination  
+
+---
+
+## 📫 Contact
+
+- Email: miloszk.kontakt@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/mi%C5%82osz-kordzi%C5%84ski-a85947254  
+
+---
