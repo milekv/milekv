@@ -14,10 +14,8 @@ Currently, I focus on:
 - data engineering and database systems  
 - data analytics and Business Intelligence  
 - backend development and system integration  
-- project coordination and team collaboration (Agile / Scrum)  
-
-I enjoy solving problems, improving system performance, and building practical, business-focused data solutions.
-
+- project coordination and team collaboration (Agile)
+- 
 ---
 
 ## 🧠 Skills
@@ -55,7 +53,7 @@ I enjoy solving problems, improving system performance, and building practical, 
 
 ## 🌐 Web Projects
 
-I also work on web projects — from idea to deployment.
+I also work on web projects - from idea to deployment.
 
 **Scope:**
 - business websites & landing pages  
