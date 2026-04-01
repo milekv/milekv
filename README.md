@@ -69,36 +69,6 @@ I also work on web projects - from idea to deployment.
 
 ---
 
-## 🚀 Projects
-
-### 🛒 CommerceFlow  
-https://github.com/milekv/CommerceFlow  
-E-commerce platform with users, products, payments, and analytics  
-**Stack:** Node.js, Express, SQL  
-
----
-
-### 📊 Training Company System  
-https://github.com/milekv/firma-szkoleniowa  
-System for managing courses and instructors with analytics  
-**Stack:** Python, Flask, SQL  
-
----
-
-### 🔗 E-commerce API  
-https://github.com/milekv/ecommerce-api  
-REST API for e-commerce platform  
-**Stack:** Node.js, Express, SQL  
-
----
-
-### 🌍 Portfolio  
-https://github.com/milekv/milekv.github.io  
-Personal portfolio website  
-**Stack:** HTML, CSS, JavaScript  
-
----
-
 ## 🌱 Currently Learning
 
 - Data engineering in cloud (Azure, AWS)  
@@ -106,11 +76,3 @@ Personal portfolio website
 - Designing data systems & backend  
 - Moving towards project coordination  
 
----
-
-## 📫 Contact
-
-- Email: miloszk.kontakt@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/mi%C5%82osz-kordzi%C5%84ski-a85947254  
-
----
