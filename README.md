@@ -1,101 +1,74 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+Hi, I'm Miłosz 👋
 
-# Cześć, jestem Miłosz 👋
+Data & Database Engineer
 
-**Data & Database Engineer**
+👨‍💻 About me
 
----
+I specialize in databases, data systems, and backend development, with over a year of experience working as a Database Administrator.
 
-## 👨‍💻 O mnie
+Currently, I’m focused on developing skills in:
 
-Jestem specjalistą w obszarze **baz danych, analizy danych i backendu**, z ponad rocznym doświadczeniem w pracy z systemami danych jako **Database Administrator**.
+data engineering and database systems
+data analytics and Business Intelligence
+backend development and system integration
+project coordination and team collaboration (Agile / Scrum)
 
-Na co dzień rozwijam się w kierunku:
+I’m particularly interested in combining data technologies with practical business applications, as well as improving how teams plan and deliver technical projects.
 
-* **inżynierii danych i systemów bazodanowych**
-* **analityki danych i Business Intelligence**
-* **projektowania backendu oraz integracji systemów**
-* **koordynowania projektów i pracy zespołów IT (Agile / Scrum)**
+🧠 Skills
+Area	Stack
+Databases & Data	Oracle, MySQL, PostgreSQL, SQL, data modeling, query optimization
+Data & BI	Python (pandas, numpy), Power BI, Excel, reporting, data visualization
+Backend & Integration	Python (Flask), Node.js (Express), REST APIs
+Cloud & Infrastructure	Azure (SQL, Data Factory), AWS (S3, RDS), Docker
+Testing & Quality	manual testing, data validation, SQL-based quality checks
+Collaboration & Projects	Agile, Scrum, task coordination, team planning
+🌐 Web Systems & Applications
 
-Interesuje mnie łączenie **technologii danych** z **praktycznym wykorzystaniem biznesowym** oraz skuteczną organizacją pracy zespołów projektowych.
+Alongside my data work, I co-develop web projects — from concept to production deployment.
 
----
+Projects include:
 
-## 🧠 Kompetencje
+business websites and landing pages
+company and product websites
+CMS-based systems
+web applications with backend and database integration
+🛠️ Tech Stack
+Area	Stack
+Project Types	websites, landing pages, web apps, CMS
+Frontend	HTML5, CSS3, JavaScript, Responsive Design
+Frameworks & UI	React, Tailwind CSS, Bootstrap
+Backend & Integration	Node.js, REST APIs, third-party integrations
+Databases & CMS	PostgreSQL, Supabase, Airtable
+Deployment	hosting setup, domains, DNS, SSL, cloud environments
+🚀 Selected Projects
+🛒 CommerceFlow
 
-| Obszar                         | Zakres                                                                     |
-| ------------------------------ | -------------------------------------------------------------------------- |
-| **Bazy danych & dane**         | Oracle, MySQL, PostgreSQL, SQL, modelowanie danych, optymalizacja zapytań  |
-| **Analiza & BI**               | Python (pandas, numpy), Power BI, Excel, raportowanie, wizualizacja danych |
-| **Backend & integracje**       | Python (Flask), Node.js (Express), REST API                                |
-| **Chmura & infrastruktura**    | Microsoft Azure (SQL, Data Factory), AWS (S3, RDS), Docker                 |
-| **Testowanie & jakość**        | testowanie manualne, walidacja danych, SQL do kontroli jakości             |
-| **Praca zespołowa & projekty** | Agile, Scrum, koordynacja zadań, planowanie pracy zespołu                  |
+E-commerce platform with user management, products, payments, and analytics
+Stack: Node.js, Express, SQL, JavaScript
 
----
+📊 Training Company System
 
-## 🌐 Systemy i aplikacje webowe
+System for managing courses and instructors with analytics dashboard
+Stack: Python, Flask, SQL, Excel
 
-Równolegle do pracy z danymi współtworzę firmę realizującą **projekty stron internetowych oraz aplikacji webowych** - od etapu koncepcji, przez implementację, po wdrożenie produkcyjne.
+🔗 E-commerce API
 
-Zakres realizowanych projektów obejmuje m.in.:
-* strony wizytówkowe i landing pages
-* strony firmowe i produktowe
-* systemy zarządzania treścią (CMS)
-* aplikacje frontendowe z integracją backendu i baz danych
+REST API for e-commerce platform
+Stack: Node.js, Express, SQL
 
-### 🛠️ Wykorzystywane technologie
+🌍 Portfolio
 
-| Obszar                   | Zakres                                                       |
-| ------------------------ | ------------------------------------------------------------ |
-| **Typy projektów**       | strony firmowe, landing pages, aplikacje webowe, systemy CMS |
-| **Frontend**             | HTML5, CSS3, JavaScript, Responsive Web Design               |
-| **Frameworki & UI**      | React, Tailwind CSS, Bootstrap                               |
-| **Backend & integracje** | Node.js, REST API, integracje z zewnętrznymi usługami        |
-| **Bazy danych & CMS**    | PostgreSQL (backend-as-a-service), Supabase, Airtable        |
-| **Deployment & hosting** | konfiguracja hostingu, domeny, DNS, SSL, środowiska chmurowe |
+Personal portfolio website
+Stack: HTML, CSS, JavaScript
 
-## 🚀 Wybrane projekty
+🌱 Currently Learning
+Data engineering in cloud environments (Azure, AWS)
+Data analysis and basics of machine learning
+Designing scalable data and backend systems
+Moving towards project coordination and tech leadership
+📫 Contact
 
-### 🛒 [CommerceFlow](https://github.com/milekv/CommerceFlow)
+📩 Email: miloszk.kontakt@gmail.com
 
-Platforma e-commerce z obsługą użytkowników, produktów, płatności i analityki zachowań.
-**Stack:** Node.js, Express, SQL, JavaScript
-
----
-
-### 📊 [System Firmy Szkoleniowej](https://github.com/milekv/firma-szkoleniowa)
-
-System do zarządzania kursami i instruktorami z panelem analitycznym.
-**Stack:** Python, Flask, SQL, Excel
-
----
-
-### 🔗 [E-commerce API](https://github.com/milekv/ecommerce-api)
-
-REST API do obsługi platformy e-commerce.
-**Stack:** Node.js, Express, SQL
-
----
-
-### 🌍 [Portfolio](https://github.com/milekv/milekv.github.io)
-
-Strona prezentująca projekty i kompetencje.
-**Stack:** HTML, CSS, JavaScript
-
----
-
-## 🌱 Aktualny kierunek rozwoju
-
-* Inżynieria danych w środowisku chmurowym (Azure, AWS)
-* Analiza danych i elementy uczenia maszynowego
-* Projektowanie systemów danych i backendu
-* Rozwój w kierunku **koordynowania projektów i zespołów IT**
-
----
-
-## 📫 Kontakt
-
-📩 **Email:** [miloszk.kontakt@gmail.com](mailto:miloszk.kontakt@gmail.com)
-🔗 **LinkedIn:** [https://www.linkedin.com/in/mi%C5%82osz-kordzi%C5%84ski-a85947254](https://www.linkedin.com/in/mi%C5%82osz-kordzi%C5%84ski-a85947254)
-
+🔗 LinkedIn: https://www.linkedin.com/in/mi%C5%82osz-kordzi%C5%84ski-a85947254
