@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Miłosz 👋</h1>
 
 <h3 align="center">
-Database Engineer • Data Engineer • Full-Stack Developer
+SQL Developer • Database Engineer • Full-Stack Developer
 </h3>
 
 <p align="center">
@@ -84,6 +84,8 @@ Enterprise-style banking database system built with Oracle.
 * security concepts
 * backup and recovery scenarios
 
+🌐 Live Demo:
+https://milekv.github.io/orabank-site/
 ---
 
 ### 🎨 VisualDB Studio
