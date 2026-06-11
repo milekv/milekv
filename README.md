@@ -1,141 +1,127 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<h1 align="center">Hi, I'm Miłosz 👋</h1>
+<h1 align="center">Cześć, jestem Miłosz 👋</h1>
 
 <h3 align="center">
 SQL Developer • Database Engineer • Full-Stack Developer
 </h3>
 
 <p align="center">
-Passionate about databases, data systems, backend architecture and modern web applications.
+Specjalizuję się w bazach danych, systemach informacyjnych oraz tworzeniu nowoczesnych aplikacji webowych.
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 O mnie
 
-I work professionally with databases and information systems, focusing on designing, developing and maintaining data-driven solutions.
+Na co dzień pracuję z bazami danych oraz systemami wspierającymi procesy biznesowe. Zajmuję się projektowaniem, administracją i rozwojem rozwiązań opartych o dane.
 
-My daily work includes SQL development, database administration, reporting, system integrations and data analysis. In parallel, I build modern web applications and technical projects that combine databases, backend services and intuitive user interfaces.
+Moja praca obejmuje tworzenie zapytań SQL, analizę danych, raportowanie, integracje systemów oraz rozwój aplikacji wykorzystujących relacyjne bazy danych.
 
-I enjoy turning complex business requirements into scalable and well-structured systems.
-
----
-
-## 🛠️ Core Technologies
-
-### 🗄️ Databases
-
-* Oracle Database
-* PostgreSQL
-* MySQL
-* SQL
-* Data Modeling
-* Query Optimization
-* Database Design
-
-### ⚙️ Backend Development
-
-* Node.js
-* Express.js
-* REST APIs
-* Python
-* Flask
-
-### 🌐 Frontend Development
-
-* React
-* TypeScript
-* JavaScript
-* Tailwind CSS
-* Vite
-
-### 📊 Data & Analytics
-
-* Python
-* Pandas
-* NumPy
-* Power BI
-* Excel
-* Data Visualization
-
-### ☁️ Infrastructure & Cloud
-
-* Docker
-* Azure
-* AWS
-* GitHub Actions
-* CI/CD
+Poza pracą rozwijam własne projekty programistyczne, łączące backend, frontend oraz nowoczesne technologie bazodanowe.
 
 ---
 
-## 💡 Featured Projects
+## 🛠️ Tech Stack
+
+### Databases & Data
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### Analytics & Cloud
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+
+
+---
+
+## 💡 Wybrane projekty
 
 ### 🏦 OraBank
 
-Enterprise-style banking database system built with Oracle.
+Projekt bankowego systemu bazodanowego oparty o Oracle Database.
 
-**Highlights:**
+**Najważniejsze elementy:**
 
-* database architecture
+* architektura bazy danych
 * PL/SQL
-* indexing strategies
-* performance optimization
-* security concepts
-* backup and recovery scenarios
+* indeksowanie i optymalizacja
+* bezpieczeństwo danych
+* wydajność zapytań
+* scenariusze backupu i odtwarzania
 
-🌐 Live Demo:
+🌐 Demo:
 https://milekv.github.io/orabank-site/
+
 ---
 
 ### 🎨 VisualDB Studio
 
-Intelligent visual database designer.
+Inteligentny wizualny kreator schematów baz danych.
 
-**Highlights:**
+**Najważniejsze funkcje:**
 
-* visual schema builder
-* relationship designer
-* PostgreSQL SQL generation
-* schema quality analysis
-* smart database suggestions
+* wizualne projektowanie schematu
+* projektowanie relacji między tabelami
+* generowanie SQL dla PostgreSQL
+* analiza jakości schematu
+* inteligentne sugestie rozbudowy bazy
 
-🌐 Live Demo:
+🌐 Demo:
 https://milekv.github.io/visualdb-studio/
 
 ---
 
-### 📦 Commerce & Business Applications
+### 📦 Aplikacje biznesowe i webowe
 
-Collection of projects focused on:
+Projekty skupione na:
 
-* backend APIs
-* database integrations
-* business process automation
-* modern web interfaces
-* full-stack architecture
+* tworzeniu aplikacji webowych
+* integracji baz danych
+* automatyzacji procesów biznesowych
+* projektowaniu REST API
+* architekturze full-stack
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Obecnie rozwijam
 
-* Advanced Database Administration
+* Administrację bazami danych Oracle i PostgreSQL
 * Data Engineering
-* Cloud Data Platforms
-* Distributed Systems
-* System Architecture
-* Performance Optimization
+* Architektury systemów opartych o dane
+* Rozwiązania chmurowe Azure i AWS
+* Wydajność i optymalizację systemów
 
 ---
 
-## 📫 Connect With Me
+## 📫 Kontakt
 
 * GitHub: https://github.com/milekv
-* LinkedIn: *(add your LinkedIn profile here)*
+* LinkedIn: https://www.linkedin.com/in/milosz-kordzinski-a85947254
 * Portfolio: https://milekv.github.io/
 
 ---
 
 <p align="center">
-Always building, always learning.
+Buduję projekty, rozwijam kompetencje i stale poszerzam wiedzę z zakresu baz danych oraz nowoczesnych technologii.
 </p>
