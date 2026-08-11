@@ -1,13 +1,12 @@
 <div align="center">
   <h1>Miłosz Kordziński</h1>
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=760&lines=Software+%26+Data+Engineer;Automation+%26+Systems+Builder;Business+Systems+%C2%B7+Developer+Tools+%C2%B7+Data+Products"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=760&lines=Software+%26+Data+Engineer;TypeScript+%C2%B7+PostgreSQL+%C2%B7+Oracle;Tools+for+real+workflows+and+data"
     alt="Software & Data Engineer · Automation & Systems Builder"
   />
   <p>
-    I build business systems, workflow automation, developer tools and
-    data-heavy software — from the interface and backend to the database,
-    integrations and deployment.
+    Most of my projects start with a concrete workflow or database problem.
+    I work across the UI, APIs, integrations and persistence needed to solve it.
   </p>
   <p>
     <a href="https://milekv.github.io/">Portfolio</a> ·
@@ -20,7 +19,7 @@
 
 ## Featured systems
 
-### [ASK DATABASE](https://github.com/milekv/ask-database) — schema-aware NL-to-SQL
+### [ASK DATABASE](https://github.com/milekv/ask-database) - schema-aware NL-to-SQL
 
 [![Repository](https://img.shields.io/badge/source-GitHub-181717?style=flat-square&logo=github)](https://github.com/milekv/ask-database)
 [![Static demo](https://img.shields.io/badge/demo-static-2F81F7?style=flat-square&logo=githubpages)](https://milekv.github.io/ask-database/)
@@ -42,7 +41,7 @@ then validates it before returning it.
   </ul>
 </details>
 
-### [SQL Atlas](https://github.com/milekv/sql-atlas) — local-first SQL analysis
+### [SQL Atlas](https://github.com/milekv/sql-atlas) - local-first SQL analysis
 
 [![Repository](https://img.shields.io/badge/source-GitHub-181717?style=flat-square&logo=github)](https://github.com/milekv/sql-atlas)
 [![Live app](https://img.shields.io/badge/app-live-238636?style=flat-square&logo=githubpages)](https://milekv.github.io/sql-atlas/)
@@ -63,7 +62,7 @@ not uploaded to a server.
   </ul>
 </details>
 
-### [VisualDB Studio](https://github.com/milekv/visualdb-studio) — visual schema design
+### [VisualDB Studio](https://github.com/milekv/visualdb-studio) - visual schema design
 
 [![Repository](https://img.shields.io/badge/source-GitHub-181717?style=flat-square&logo=github)](https://github.com/milekv/visualdb-studio)
 [![Live app](https://img.shields.io/badge/app-live-238636?style=flat-square&logo=githubpages)](https://milekv.github.io/visualdb-studio/)
@@ -83,7 +82,7 @@ without hiding the underlying database design.
   </ul>
 </details>
 
-### [OraBank](https://github.com/milekv/oracle-bank-system) — Oracle banking architecture
+### [OraBank](https://github.com/milekv/oracle-bank-system) - Oracle banking architecture
 
 [![Source](https://img.shields.io/badge/source-SQL%20%2F%20PLSQL-F80000?style=flat-square&logo=oracle)](https://github.com/milekv/oracle-bank-system)
 [![Walkthrough](https://img.shields.io/badge/project-walkthrough-2F81F7?style=flat-square&logo=githubpages)](https://milekv.github.io/orabank-site/)
@@ -103,34 +102,23 @@ transfers, loans and audit data rather than stopping at a small demo schema.
   </ul>
 </details>
 
-## How I approach a system
+## Working stack
 
-```mermaid
-flowchart LR
-  Problem["Operational problem"] --> Process["Process and failure cases"]
-  Process --> Product["Product interface"]
-  Product --> API["Backend and integrations"]
-  API --> Data["Data model and persistence"]
-  Data --> Automation["Automation and observability"]
-  Automation --> Process
-```
-
-| Area | Typical work | Main tools |
-| --- | --- | --- |
-| Business systems | Internal tools, SaaS workflows, process automation | TypeScript, React, Node.js, Supabase |
-| Data systems | Data modelling, migrations, retrieval, performance | PostgreSQL, Oracle, SQL |
-| Developer tools | Local-first analysis, generators, CI checks | TypeScript, Vite, GitHub Actions |
-| Integrations | APIs, webhooks, data exchange and scheduled work | Fastify, REST, Docker, cloud services |
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3FCF8E)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ## Currently building
 
-> **RehabOS** — an operating system for physiotherapy practices and clinics,
-> connecting clinic operations, therapists and patients across the therapy
-> process.
+> **RehabOS** - software for physiotherapy practices that keeps clinic
+> operations, therapist work and the patient side in one product.
 
-I am also extending the SQL tooling direction toward EXPLAIN-plan analysis, CLI
-workflows and repository-level checks, while continuing to build automation around
-real operational handoffs.
+Next items for SQL Atlas are EXPLAIN-plan input, a CLI and repository-level checks.
 
 ## Open source
 
@@ -138,19 +126,9 @@ real operational handoffs.
   <summary><strong>Recent merged pull requests</strong></summary>
   <br />
   <ul>
-    <li><a href="https://github.com/tungbq/devops-project/pull/128">tungbq/devops-project #128</a> — corrected a Terraform VPN access guideline</li>
-    <li><a href="https://github.com/vitorfranklin/retrohost/pull/26">vitorfranklin/retrohost #26</a> — resolved Markdown lint issues</li>
-    <li><a href="https://github.com/thomaspinder/GPJax/pull/685">thomaspinder/GPJax #685</a> — corrected GraphKernel spectral documentation</li>
-    <li><a href="https://github.com/rodrigo-arenas/Sklearn-genetic-opt/pull/304">Sklearn-genetic-opt #304</a> — updated community documentation references</li>
+    <li><a href="https://github.com/tungbq/devops-project/pull/128">tungbq/devops-project #128</a> - corrected a Terraform VPN access guideline</li>
+    <li><a href="https://github.com/vitorfranklin/retrohost/pull/26">vitorfranklin/retrohost #26</a> - resolved Markdown lint issues</li>
+    <li><a href="https://github.com/thomaspinder/GPJax/pull/685">thomaspinder/GPJax #685</a> - corrected GraphKernel spectral documentation</li>
+    <li><a href="https://github.com/rodrigo-arenas/Sklearn-genetic-opt/pull/304">Sklearn-genetic-opt #304</a> - updated community documentation references</li>
   </ul>
 </details>
-
----
-
-<div align="center">
-  <strong>Build the whole system. Keep the moving parts visible.</strong>
-  <br /><br />
-  <a href="https://github.com/milekv">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/milosz-kordzinski-a85947254">LinkedIn</a> ·
-  <a href="https://milekv.github.io/">Portfolio</a>
-</div>
