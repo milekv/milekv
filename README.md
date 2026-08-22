@@ -32,9 +32,9 @@ Ask a question about a database and get SQL with the reasoning context kept visi
 
 ### [SQL Atlas](https://github.com/milekv/sql-atlas) - local-first SQL analysis
 
-[Repository](https://github.com/milekv/sql-atlas) | [Live app](https://milekv.github.io/sql-atlas/)
+[Repository](https://github.com/milekv/sql-atlas) | [Live app](https://milekv.github.io/sql-atlas/) | [npm](https://www.npmjs.com/package/sql-atlas) | [VS Code](https://marketplace.visualstudio.com/items?itemName=Milosz.sql-atlas)
 
-Deterministic analysis that runs entirely in the browser. SQL Atlas detects anti-patterns, explains findings, suggests indexes from query structure and compares PostgreSQL, MySQL, Oracle, SQLite and SQL Server. Queries are not uploaded to a server.
+Deterministic SQL analysis for the browser, terminal, pull requests and VS Code. SQL Atlas detects anti-patterns, explains findings, suggests indexes from query structure and compares PostgreSQL, MySQL, Oracle, SQLite and SQL Server. Analysis runs locally without uploading queries to a service.
 
 <details>
   <summary><strong>What is inside</strong></summary>
@@ -44,7 +44,8 @@ Deterministic analysis that runs entirely in the browser. SQL Atlas detects anti
     <li>Index suggestions based on filters, joins, grouping and ordering</li>
     <li>PostgreSQL EXPLAIN JSON parser with metrics, execution tree and risk detection</li>
     <li>Before and after rewrites, query map and Markdown report export</li>
-    <li>Roadmap: CLI and repository-level checks</li>
+    <li>CLI with text, JSON, Markdown and SARIF output</li>
+    <li>GitHub Action annotations and local VS Code diagnostics</li>
   </ul>
 </details>
 
@@ -99,9 +100,6 @@ An Oracle SQL and PL/SQL project covering customers, accounts, cards, transfers,
   <summary><strong>Recent merged pull requests</strong></summary>
   <br />
   <ul>
-    <li><a href="https://github.com/tungbq/devops-project/pull/128">tungbq/devops-project #128</a> - corrected a Terraform VPN access guideline</li>
-    <li><a href="https://github.com/vitorfranklin/retrohost/pull/26">vitorfranklin/retrohost #26</a> - resolved Markdown lint issues</li>
-    <li><a href="https://github.com/thomaspinder/GPJax/pull/685">thomaspinder/GPJax #685</a> - corrected GraphKernel spectral documentation</li>
-    <li><a href="https://github.com/rodrigo-arenas/Sklearn-genetic-opt/pull/304">Sklearn-genetic-opt #304</a> - updated community documentation references</li>
+    <li><a href="https://github.com/Truta446/nplusone/pull/13">Truta446/nplusone #13</a> - added tested LibSQL and Turso adapter support and was credited in the project changelog</li>
   </ul>
 </details>
