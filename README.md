@@ -1,8 +1,8 @@
 # Miłosz Kordziński
 
-Software engineer building data-heavy applications and developer tools with
-TypeScript, SQL and PostgreSQL. My recent work combines database systems,
-deterministic analysis and model-assisted workflows.
+Software engineer focused on backend systems, databases and developer tools.
+I work mainly with TypeScript, SQL, PostgreSQL and Oracle, building applications
+and tools around data-heavy workflows.
 
 Based in Wrocław, Poland. Open to mid-level software engineering roles involving
 backend systems, databases or developer tooling.
