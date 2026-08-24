@@ -29,16 +29,6 @@ Deterministic SQL analysis across the terminal, pull requests, VS Code and the
 browser. One shared TypeScript core powers the published npm CLI, GitHub Action
 annotations, editor diagnostics and the interactive web application.
 
-<p align="center">
-  <a href="https://milekv.github.io/sql-atlas/">
-    <img
-      src="https://raw.githubusercontent.com/milekv/sql-atlas/main/public/screenshots/query-analyzer.png"
-      width="880"
-      alt="SQL Atlas query analyzer showing findings and recommendations"
-    />
-  </a>
-</p>
-
 - Rule configuration, repository policies and inline ignores
 - PostgreSQL-aware scanning plus `EXPLAIN JSON` and schema tooling
 - Text, JSON, Markdown and SARIF output
