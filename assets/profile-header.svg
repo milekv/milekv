@@ -15,9 +15,10 @@
   <rect width="1200" height="280" rx="20" fill="url(#grid)"/>
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
-    <text x="72" y="111" fill="#f8fafc" font-size="43" font-weight="700" letter-spacing="-0.8">Miłosz Kordziński</text>
-    <text x="72" y="154" fill="#bae6fd" font-size="21" font-weight="500">Software Engineer  •  Backend  •  Databases  •  Developer Tools</text>
-    <text x="72" y="199" fill="#94a3b8" font-size="17" letter-spacing="0.6">TypeScript  •  SQL  •  PostgreSQL  •  Oracle</text>
+    <text x="72" y="97" fill="#f8fafc" font-size="43" font-weight="700" letter-spacing="-0.8">Miłosz Kordziński</text>
+    <text x="72" y="139" fill="#bae6fd" font-size="21" font-weight="600">Software Engineer</text>
+    <text x="72" y="174" fill="#bae6fd" font-size="19" font-weight="400">Backend, Databases, Developer Tools</text>
+    <text x="72" y="215" fill="#94a3b8" font-size="17" letter-spacing="0.3">TypeScript, SQL, PostgreSQL, Oracle</text>
   </g>
 
   <g transform="translate(935 64)" fill="none" stroke-linecap="round" stroke-linejoin="round">

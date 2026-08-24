@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/profile-header.svg"
+    src="./assets/profile-header.svg?v=3"
     width="100%"
     alt="Miłosz Kordziński - Software Engineer focused on backend, databases and developer tools"
   />
