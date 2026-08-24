@@ -18,9 +18,6 @@ I build backend systems and developer tools around SQL and data-heavy
 workflows. My recent work includes static SQL analysis, PostgreSQL schema
 tooling, an Oracle transaction system and a controlled text-to-SQL pipeline.
 
-Based in Wrocław, Poland. Open to mid-level software engineering roles focused
-on backend systems, databases or developer tooling.
-
 ## Featured project
 
 ### [SQL Atlas](https://github.com/milekv/sql-atlas)
