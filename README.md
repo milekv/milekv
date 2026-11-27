@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/milosz-kordzinski-a85947254">LinkedIn</a> ·
   <a href="https://github.com/milekv?tab=repositories">Repositories</a>
 </p>
-
-I build database tools in TypeScript. Right now I'm working on SQL Atlas and pg-migration-guard.
-
 ### What I'm building
 
 **[SQL Atlas](https://github.com/milekv/sql-atlas)**: Inspect SQL in the [browser](https://milekv.github.io/sql-atlas/), VS Code, CLI or CI. It points to findings in the source and imports PostgreSQL, SQL Server and Oracle execution plans for review. The analysis runs locally; it does not execute your SQL.
