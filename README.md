@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Miłosz Kordziński — SQL, database systems and developer tools" />
+  <img src="./assets/profile-header.svg?v=4" width="100%" alt="Miłosz Kordziński — SQL, database systems and developer tools" />
 </p>
 
 <p align="center">
