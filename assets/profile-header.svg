@@ -1,30 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title description">
-  <title id="title">Miłosz Kordziński - SQL and database systems</title>
-  <desc id="description">Backend, databases and developer tools. TypeScript, SQL, PostgreSQL and Oracle.</desc>
+  <title id="title">Miłosz Kordziński — SQL and database tools</title>
+  <desc id="description">PostgreSQL, Oracle and TypeScript projects.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#081827"/>
-      <stop offset="1" stop-color="#0b2032"/>
+      <stop offset="0" stop-color="#08131f"/>
+      <stop offset="1" stop-color="#112b38"/>
     </linearGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M40 0H0V40" fill="none" stroke="#bae6fd" stroke-opacity="0.035"/>
     </pattern>
   </defs>
 
-  <rect width="1200" height="280" rx="20" fill="url(#background)"/>
-  <rect width="1200" height="280" rx="20" fill="url(#grid)"/>
+  <rect width="1200" height="280" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="280" rx="18" fill="url(#grid)"/>
+  <path d="M0 18Q0 0 18 0H1182Q1200 0 1200 18V280H0Z" fill="none" stroke="#305668"/>
+  <rect x="70" y="55" width="34" height="4" rx="2" fill="#42d6dd"/>
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
-    <text x="72" y="97" fill="#f8fafc" font-size="43" font-weight="700" letter-spacing="-0.8">Miłosz Kordziński</text>
-    <text x="72" y="139" fill="#bae6fd" font-size="21" font-weight="600">SQL &amp; Data Workflows</text>
-    <text x="72" y="174" fill="#bae6fd" font-size="19" font-weight="400">Database Systems, Developer Tools</text>
-    <text x="72" y="215" fill="#94a3b8" font-size="17" letter-spacing="0.3">PostgreSQL  /  Oracle  /  TypeScript</text>
+    <text x="70" y="111" fill="#f4f8fb" font-size="44" font-weight="700" letter-spacing="-1.2">Miłosz Kordziński</text>
+    <text x="72" y="156" fill="#a7dfe7" font-size="20" font-weight="500">SQL · database tools · open source</text>
+    <text x="72" y="219" fill="#8da8b6" font-size="16" letter-spacing="1.1">POSTGRESQL   /   ORACLE   /   TYPESCRIPT</text>
   </g>
 
-  <g transform="translate(935 64)" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <ellipse cx="88" cy="25" rx="64" ry="19" stroke="#67e8f9" stroke-width="2"/>
-    <path d="M24 25V137C24 147 53 156 88 156C123 156 152 147 152 137V25" stroke="#38bdf8" stroke-width="2"/>
-    <path d="M24 62C24 72 53 81 88 81C123 81 152 72 152 62" stroke="#38bdf8" stroke-opacity="0.72" stroke-width="2"/>
-    <path d="M24 99C24 109 53 118 88 118C123 118 152 109 152 99" stroke="#38bdf8" stroke-opacity="0.72" stroke-width="2"/>
+  <g transform="translate(891 53)" font-family="SFMono-Regular, Consolas, monospace">
+    <rect width="252" height="177" rx="10" fill="#0a1824" stroke="#315364"/>
+    <path d="M0 34H252" stroke="#315364"/>
+    <circle cx="18" cy="17" r="3" fill="#527184"/><circle cx="30" cy="17" r="3" fill="#527184"/>
+    <text x="20" y="67" font-size="15" fill="#4dd5e2">EXPLAIN</text>
+    <text x="20" y="95" font-size="15" fill="#d2e4ec">SELECT <tspan fill="#9ccae0">id</tspan></text>
+    <text x="20" y="123" font-size="15" fill="#d2e4ec">FROM <tspan fill="#f1d39d">orders</tspan>;</text>
+    <path d="M20 147H118" stroke="#2b5669" stroke-width="3" stroke-linecap="round"/>
+    <path d="M20 157H79" stroke="#2b5669" stroke-width="3" stroke-linecap="round"/>
   </g>
 </svg>
