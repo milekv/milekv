@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title description">
+  <title id="title">Miłosz Kordziński</title>
+  <desc id="description">PostgreSQL, Oracle and TypeScript projects.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#08131f"/>
+      <stop offset="1" stop-color="#112b38"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#bae6fd" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="280" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="280" rx="18" fill="url(#grid)"/>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="70" y="130" fill="#f4f8fb" font-size="48" font-weight="700" letter-spacing="-1.2">Miłosz Kordziński</text>
+    <text x="72" y="197" fill="#a7dfe7" font-size="19" font-weight="500">PostgreSQL   /   Oracle   /   TypeScript</text>
+  </g>
+
+  <g transform="translate(891 53)" font-family="SFMono-Regular, Consolas, monospace">
+    <rect width="252" height="177" rx="10" fill="#0a1824" stroke="#315364"/>
+    <path d="M0 34H252" stroke="#315364"/>
+    <circle cx="18" cy="17" r="3" fill="#527184"/><circle cx="30" cy="17" r="3" fill="#527184"/>
+    <text x="20" y="67" font-size="15" fill="#4dd5e2">EXPLAIN</text>
+    <text x="20" y="95" font-size="15" fill="#d2e4ec">SELECT <tspan fill="#9ccae0">id</tspan></text>
+    <text x="20" y="123" font-size="15" fill="#d2e4ec">FROM <tspan fill="#f1d39d">orders</tspan>;</text>
+    <path d="M20 147H118" stroke="#2b5669" stroke-width="3" stroke-linecap="round"/>
+    <path d="M20 157H79" stroke="#2b5669" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>
